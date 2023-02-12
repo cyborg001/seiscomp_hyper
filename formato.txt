@@ -1,0 +1,28 @@
+
+  scbulletin -d postgresql://sysop@localhost/seiscomp3 -E cns2023cmzf
+  Alert cns2023cffg: determined by 13 stations, type A
+
+ LOCSAT solution with earthmodel iasp91 (with start solution, 13 stations used, weight 13):
+
+  Cuba Region  M=4.6  2023/02/01  07:26:14.6  19.70 N  70.73 W   10 km
+
+  Stat  Net Date      Time               Amp  Per   Res  Dist  Az  mb  ML  mB
+  MTDJ  CU  23/02/01  07:26:37.2         0.0  0.0  -0.1   1.2 129 0.0 4.2 0.0
+  JIDR  DR  23/02/01  07:27:47.3        75.2  0.6  -1.1   6.4  94 5.0 5.0 0.0
+  LODA2 LO  23/02/01  07:27:48.8         0.0  0.0  -1.3   6.5  84 0.0 4.6 4.9
+  LOBH  LO  23/02/01  07:27:51.6         0.0  0.0  -0.8   6.6  99 0.0 4.6 4.9
+  LONE3 LO  23/02/01  07:27:53.0         0.0  0.0  -0.4   6.7  92 0.0 4.1 4.4
+  LODU1 LO  23/02/01  07:27:53.9         0.0  0.0   0.4   6.7  94 0.0 4.3 4.6
+  SDDR  CU  23/02/01  07:27:54.6        74.8  0.6  -0.7   6.9  89 5.0 5.0 0.0
+  LOVI  LO  23/02/01  07:27:55.7        51.6  0.4  -0.4   6.9  99 5.0 4.9 5.2
+  BADR  DR  23/02/01  07:28:09.9        47.6  0.8   2.0   7.8  93 4.8 5.0 0.0
+  SMAR  CM  23/02/01  07:28:22.6        42.7  1.1   0.0   8.9 151 4.7 5.1 0.0
+  CRPR  PR  23/02/01  07:28:49.3        41.5  0.7  -1.3  10.9  93 5.0 0.0 0.0
+  MLPR  PR  23/02/01  07:28:50.7        32.3  2.0  -0.8  10.9  94 4.4 0.0 0.0
+  ECPR  PR  23/02/01  07:29:04.1        33.6  1.5   4.3  11.6  91 4.5 0.0 0.0
+
+ RMS-ERR:         1.49
+
+ First location:  2023/02/01 07:29:15
+ This location:   2023/02/01 07:29:42
+

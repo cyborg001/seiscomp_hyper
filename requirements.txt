@@ -1,0 +1,6 @@
+tk
+requests
+pylint
+pytest
+nbval
+pytest-cov
